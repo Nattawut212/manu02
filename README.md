@@ -1,7 +1,7 @@
-<center>
+
 WabKongBomHamyung
-ผลงานของ 
-นาย ณัฐวุฒิ ปินใจ 
-รหัสนักศึกษา 5908111001
-  <center>
+
+Mr.Nattawut Pinjai
+Key.5908111001
+
 
